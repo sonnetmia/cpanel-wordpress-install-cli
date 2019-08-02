@@ -1,9 +1,8 @@
 # cpanel-wordpress-install-cli
-
-** wp-cli
-** cpanel_uapi hook 
-** basic shell script
+# with the help of: 
+- wp-cli
+- cpanel_uapi hook 
 
 ## Usage
-** chmod +x script.sh 
-** ./script.sh domain.name cpanel_username database_suffix 
+  - chmod +x script.sh 
+  - ./script.sh domain.name cpanel_username database_suffix 
